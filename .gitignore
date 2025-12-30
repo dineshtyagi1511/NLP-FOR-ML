@@ -136,8 +136,10 @@ celerybeat.pid
 
 # Environments
 .env
+.NLP
 .envrc
 .venv
+NLP/
 env/
 venv/
 ENV/
